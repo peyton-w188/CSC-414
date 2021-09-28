@@ -1,6 +1,6 @@
 # CSC-414
 
-These scripts I made for my Unity Quadcopter Drone.
+Here are the scripts I made for my Unity Quadcopter Drone simulation.
 
 Attach all scripts to the main gameObject you want as your drone.
 
