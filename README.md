@@ -33,7 +33,7 @@ Controls
   - O: Turns on/off DroneMovment script
 
 ----------------------------------------------
-### **captureImage**
+### **captureImage.cs**
 
 Controls
   - I: Takes an Image with specified file name and resolution
