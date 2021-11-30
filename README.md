@@ -31,3 +31,9 @@ Extra Info: Make sure to add your cameras to the script in the Inspector.
 
 Controls
   - O: Turns on/off DroneMovment script
+
+----------------------------------------------
+### **captureImage**
+
+Controls
+  - I: Takes an Image with specified file name and resolution
